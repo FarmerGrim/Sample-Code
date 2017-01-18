@@ -19,3 +19,6 @@ The Susan Horak Group:
   
   -updated about-us page
   
+  - Website. Updating copyright and favicons.
+  - logic for UC vs Sold homes
+  - added real estate news and for lease pages
