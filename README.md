@@ -7,7 +7,7 @@ School Programming projects:
   
 The Susan Horak Group:
   -navigation.html-
-      Re-worked the navigation buttons of www.susanhorak.com to function as div buttons rather than simply hyperlinks which required clicking on the word rather than the entire "button/<div>".
+      Re-worked the navigation buttons of www.susanhorak.com to function as div buttons rather than simply hyperlinks which required clicking on the word rather than the entire "button/div".
       
   -All web pages/templates-
       Changed copyright to a php statement for the current year, including adding timezone to the header.
